@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **rvinay.krishnan@gmail.com**
 
 
 **Languages and Tools:**  
